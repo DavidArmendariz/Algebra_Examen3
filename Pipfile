@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 opencv-python = "*"
+jupyter = "*"
 numpy = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.11"
